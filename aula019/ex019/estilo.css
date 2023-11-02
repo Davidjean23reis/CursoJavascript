@@ -6,6 +6,7 @@ body {
 header {
  text-align: center;
  color: white;
+ padding: 10px;
 }
 
 section {
@@ -22,3 +23,12 @@ color: white;
 text-align: center;
 font-style: italic;
 }
+
+ img {
+    border-radius: 10%;
+    border-bottom: rgb(6, 5, 7);
+ }
+
+ div {
+    text-align: center;
+ }
